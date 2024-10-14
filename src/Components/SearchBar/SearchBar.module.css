@@ -1,0 +1,18 @@
+.container {
+    flex: 1;
+    display: flex;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.container > input {
+    border: none;
+    outline: none;
+    flex: 1;
+    font-size: 1.1rem;
+}
+
+.container > img {
+    width: 20px;
+}
